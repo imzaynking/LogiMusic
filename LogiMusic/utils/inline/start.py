@@ -107,7 +107,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             [
                 InlineKeyboardButton(text=_["S_B_7"], user_id=OWNER),
                 InlineKeyboardButton(
-                    text=_["S_B_6"], url=f"https://t.me/logi_channel"
+                    text=_["S_B_6"], url=f"https://t.me/KING_BIOz"
                 ),
             ]
         )
@@ -116,7 +116,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
             buttons.append(
                 [
                     InlineKeyboardButton(
-                        text=_["S_B_6"], url=f"https://t.me/logi_channel"
+                        text=_["S_B_6"], url=f"https://t.me/KING_BIOz"
                     ),
                 ]
             )
@@ -129,6 +129,6 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 ]
             )
     buttons.append(
-        [InlineKeyboardButton(text=_["ST_B_6"], url="https://github.com/LOGI-LAB/LogiMusic")]
+        [InlineKeyboardButton(text=_["ST_B_6"], url="https://t.me/iMzaynKING")]
     )
     return buttons
