@@ -1,7 +1,7 @@
 {
-    "name": "Logi Music Bot",
+    "name": "Vibes music",
     "description": "Logi Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/014a1a289998a548996b9.jpg",
+    "logo": "https://telegra.ph/file/aefae4133dfbf24dd2f6c.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -95,7 +95,7 @@
       },
       "START_IMG_URL": {
         "description": "The pic which will be shown when you /start the bot in private.",
-        "value": "https://te.legra.ph/file/dd83f94f329491cf9c0d1.jpg",
+        "value": "https://telegra.ph/file/aefae4133dfbf24dd2f6c.jpg",
         "required": false
       },
       "HEROKU_API_KEY": {
