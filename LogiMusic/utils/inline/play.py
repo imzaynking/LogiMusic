@@ -49,15 +49,15 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/{OWNER_USERNAME}" )
+                text="⭐ ᴏᴡɴᴇʀ ⭐", url=f"https://t.me/iMzaynKING" )
         ],
         [
             InlineKeyboardButton(
-                text="♡︎ ᴄʜᴀɴɴᴇʟ ♡︎",
+                text="❤️ ᴄʜᴀɴɴᴇʟ 💙",
                 url=f"{SUPPORT_CHANNEL}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴄʜᴀᴛ ♡︎", url=f"{SUPPORT_GROUP}")
+                text="🌈 ᴄʜᴀᴛ 🌈", url=f"{SUPPORT_GROUP}")
         ],
         [
             InlineKeyboardButton(
@@ -96,15 +96,15 @@ def telegram_markup_timer(_, chat_id, played, dur):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/{OWNER_USERNAME}")
+                text="⭐ ᴏᴡɴᴇʀ ⭐", url=f"https://t.me/iMzaynKING")
         ],
         [
             InlineKeyboardButton(
-                text="♡︎ ᴄʜᴀɴɴᴇʟ ♡︎",
+                text="💙 ᴄʜᴀɴɴᴇʟ ❤️",
                 url=f"{SUPPORT_CHANNEL}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴄʜᴀᴛ ♡︎", url=f"{SUPPORT_GROUP}")
+                text="🌈 ᴄʜᴀᴛ 🌈", url=f"{SUPPORT_GROUP}")
         ],
         [
             InlineKeyboardButton(
@@ -127,15 +127,15 @@ def stream_markup(_, videoid, chat_id ):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴏᴡɴᴇʀ ♡︎", url=f"https://t.me/{OWNER_USERNAME}")
+                text="⭐ ᴏᴡɴᴇʀ ⭐", url=f"https://t.me/iMzaynKING")
         ],
         [
             InlineKeyboardButton(
-                text="♡︎ ᴄʜᴀɴɴᴇʟ ♡︎",
+                text="💙 ᴄʜᴀɴɴᴇʟ ❤️",
                 url=f"{SUPPORT_CHANNEL}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ᴄʜᴀᴛ ♡︎", url=f"{SUPPORT_GROUP}")
+                text="🌈 ᴄʜᴀᴛ 🌈", url=f"{SUPPORT_GROUP}")
         ],
         [
             InlineKeyboardButton(
@@ -258,7 +258,7 @@ def slider_markup(
         ],
         [
             InlineKeyboardButton(
-                text="◁",
+                text="◁🍹",
                 callback_data=f"slider B|{query_type}|{query}|{user_id}|{channel}|{fplay}",
             ),
             InlineKeyboardButton(
@@ -266,7 +266,7 @@ def slider_markup(
                 callback_data=f"forceclose {query}|{user_id}",
             ),
             InlineKeyboardButton(
-                text="▷",
+                text="🍹▷",
                 callback_data=f"slider F|{query_type}|{query}|{user_id}|{channel}|{fplay}",
             ),
         ],
@@ -281,7 +281,7 @@ def panel_markup_1(_, videoid, chat_id):
     buttons = [
         [
             InlineKeyboardButton(
-                text="▷",
+                text="🍹▷",
                 callback_data=f"ADMIN Resume|{chat_id}",
             ),
             InlineKeyboardButton(
@@ -300,8 +300,8 @@ def panel_markup_1(_, videoid, chat_id):
                 callback_data=f"add_playlist {videoid}",
             ),
             InlineKeyboardButton(
-                text="♡︎ ʀᴇᴘᴏꜱ ♡︎",
-                url=f"https://github.com/LOGI-LAB/LogiMusic",
+                text="💫 ʀᴇᴘᴏꜱ 💫",
+                url=f"https://t.me/iMzaynKING",
             ),
         ],
         [
