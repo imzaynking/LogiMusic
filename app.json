@@ -1,6 +1,6 @@
 {
     "name": "Vibes music",
-    "description": "Logi Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
+    "description": "VIBES Is A Telegram Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://telegra.ph/file/aefae4133dfbf24dd2f6c.jpg",
     "keywords": [
     "python3",
@@ -45,22 +45,22 @@
       },
       "OWNER_USERNAME": {
        "description": "the bot owner user name",
-       "value": "@cl_me_logesh",
+       "value": "@IMZAYNKING",
        "required":true
       },
       "SUPPORT_CHANNEL": {
         "description": "the bot owner user name",
-        "value": "https://t.me/logi_channel",
+        "value": "https://t.me/KING_BIOZ",
         "required":true
        },
        "SUPPORT_GROUP": {
         "description": "the bot owner user name",
-        "value": "https://t.me/lgbots",
+        "value": "https://t.me/TAMIL_CHATBOX",
         "required":true
        },             
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5303133436",
+        "value": "1897103955",
         "required": true
       },
       "STRING_SESSION": {
@@ -115,7 +115,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/LOGI-LAB/LogiMusic",
+        "value": "https://t.me/iMzaynKING",
         "required": true
       },
       "UPSTREAM_BRANCH": {
