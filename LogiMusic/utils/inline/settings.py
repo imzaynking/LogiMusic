@@ -27,7 +27,7 @@ def setting_markup(_):
                 text=_["ST_B_3"], callback_data="AU"
             ),
             InlineKeyboardButton(
-                text=_["ST_B_6"], url=f"https://github.com/LOGI-LAB/LogiMusic"
+                text=_["ST_B_6"], url=f"https://t.me/iMzaynKING"
             ),
         ],
         [
